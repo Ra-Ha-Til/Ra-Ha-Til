@@ -1,7 +1,7 @@
-![Programmer & Wordpress Developer](https://scontent.fdac116-1.fna.fbcdn.net/v/t39.30808-6/287507858_3244686575851224_2666194128057971202_n.jpg?stp=dst-jpg_s526x395&_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeEbDMRbeIzfdGzdplzqZasBEz_uKEm3uuUTP-4oSbe65fw1oLK2jPajWqW-1_sxCOjIFs5lQUOGIdbTIUAm9mKp&_nc_ohc=IDnGgUt2VCwAX_Ws-O5&tn=xsVGWnw3GL4bcFI1&_nc_ht=scontent.fdac116-1.fna&oh=00_AT_S6cVBYYuoKW3zYbnWct1YngbVZ_dpvMf-DuR-l-N9ug&oe=631E30AE)
+![Programmer & Wordpress Developer](https://i.postimg.cc/MpMScmpK/20220908-205519.jpg)
 
-### Hi there 👋, I'm Rahatil
-#### Programmer & Wordpress Developer
+#### Hi there 👋, I'm Rahatil
+##### Wordpress Developer
 
 
 I am passionate about my work. I am an excellent communicator .  I am currently learning C & C++ language as a intermediate programmer . I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real word  problems. I am strategic, goal oriented and always work with an end goal in mind.and use in your profile.
