@@ -1,4 +1,4 @@
-![logo]([https://github.com/Ra-Ha-Til/Ra-Ha-Til/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png](https://github.com/Ra-Ha-Til/Ra-Ha-Til/blob/main/Banner.png))
+![logo](https://github.com/Ra-Ha-Til/Ra-Ha-Til/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png](https://github.com/Ra-Ha-Til/Ra-Ha-Til/blob/main/Banner.png)
 
 # Hi there, I'm Ra-Ha-Til 👋
 
