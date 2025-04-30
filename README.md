@@ -1,8 +1,9 @@
-
+![logo](https://github.com/Ra-Ha-Til/Ra-Ha-Til/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 
 # Hi there, I'm Ra-Ha-Til 👋
 
 ### Flutter Developer | CSE Student at Daffodil International University | Mobile App Enthusiast
+<img align ="right" alt = "coding" width= "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dprogrammer%2Bcartoon&psig=AOvVaw1g0mmen-Ywm9gij7N-eb-V&ust=1746105496343000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjQm4js_4wDFQAAAAAdAAAAABAJ">
 
 👨‍💻 Self-taught mobile app developer passionate about Flutter  
 📱 Building beautiful, performant cross-platform applications  
