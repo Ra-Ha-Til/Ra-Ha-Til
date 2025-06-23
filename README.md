@@ -46,7 +46,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ra-Ha-Til)
 
 ---
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 <div align="right">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDFsZ3V4dWYwN2V1Z3JkZ2JqZzV5eGJ0dHZ6bWx6dGJtZ2R2eGJ3dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" width="200">
 </div>
